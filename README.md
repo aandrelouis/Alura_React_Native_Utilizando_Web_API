@@ -19,13 +19,6 @@ O AluraHub é uma aplicação feita em React Native que permite salvar um perfil
 
 Como ele funciona? O app consome uma API externa, no caso, a API pública do Github ou uma fake API com json-server.
 
-Esse projeto é utilizado no curso 4 da formação base de React Native da plataforma da Alura.
-
-
-<h1 align="center">
-    <img alt="Demonstracao" title="Demonstracao" src=".images/ficando-online-newdesign.gif" width="400px" />
-</h1>
-
 
 ## 🧑‍💻 Tecnologias
 
