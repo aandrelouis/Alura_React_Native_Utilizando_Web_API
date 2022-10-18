@@ -4,7 +4,7 @@
 
 # ⚛️ React Native: utilizando Web API
 
-O projeto foi desenvolvido durante do curso **React Native: utilizando Web API** em que é feita uma aplicação em React Native que permite salvar um perfil com informações como nome da pessoa e uma foto. Além disso, possibilita consultar um repositório que armazena alguns dados. O aplciativo consome uma API externa, no caso uma fake API com json-server.
+O projeto foi desenvolvido durante do curso **React Native: utilizando Web API** em que é feita uma aplicação em React Native que permite salvar um perfil com informações como nome da pessoa e uma foto. Além disso, possibilita consultar um repositório que armazena alguns dados. O aplicativo consome uma API externa, no caso uma fake API com json-server.
 
 
 ![foto1](https://github.com/aandrelouis/Alura_React_Native_Utilizando_Web_API/blob/main/assets/App/foto.png)
